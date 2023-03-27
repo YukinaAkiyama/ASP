@@ -1,0 +1,11 @@
+D:\ASP\weak5\20230322RichTextBox\20230322RichTextBox\bin\Debug\20230322RichTextBox.exe.config
+D:\ASP\weak5\20230322RichTextBox\20230322RichTextBox\bin\Debug\20230322RichTextBox.exe
+D:\ASP\weak5\20230322RichTextBox\20230322RichTextBox\bin\Debug\20230322RichTextBox.pdb
+D:\ASP\weak5\20230322RichTextBox\20230322RichTextBox\obj\Debug\20230322RichTextBox.csproj.AssemblyReference.cache
+D:\ASP\weak5\20230322RichTextBox\20230322RichTextBox\obj\Debug\20230322RichTextBox.csproj.SuggestedBindingRedirects.cache
+D:\ASP\weak5\20230322RichTextBox\20230322RichTextBox\obj\Debug\_20230322RichTextBox.Form1.resources
+D:\ASP\weak5\20230322RichTextBox\20230322RichTextBox\obj\Debug\_20230322RichTextBox.Properties.Resources.resources
+D:\ASP\weak5\20230322RichTextBox\20230322RichTextBox\obj\Debug\20230322RichTextBox.csproj.GenerateResource.cache
+D:\ASP\weak5\20230322RichTextBox\20230322RichTextBox\obj\Debug\20230322RichTextBox.csproj.CoreCompileInputs.cache
+D:\ASP\weak5\20230322RichTextBox\20230322RichTextBox\obj\Debug\20230322RichTextBox.exe
+D:\ASP\weak5\20230322RichTextBox\20230322RichTextBox\obj\Debug\20230322RichTextBox.pdb

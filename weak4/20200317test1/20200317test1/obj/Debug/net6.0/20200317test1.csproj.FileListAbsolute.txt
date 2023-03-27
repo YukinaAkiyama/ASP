@@ -1,0 +1,15 @@
+D:\ASP\weak4\20200317test1\20200317test1\bin\Debug\net6.0\20200317test1.exe
+D:\ASP\weak4\20200317test1\20200317test1\bin\Debug\net6.0\20200317test1.deps.json
+D:\ASP\weak4\20200317test1\20200317test1\bin\Debug\net6.0\20200317test1.runtimeconfig.json
+D:\ASP\weak4\20200317test1\20200317test1\bin\Debug\net6.0\20200317test1.dll
+D:\ASP\weak4\20200317test1\20200317test1\bin\Debug\net6.0\20200317test1.pdb
+D:\ASP\weak4\20200317test1\20200317test1\obj\Debug\net6.0\20200317test1.csproj.AssemblyReference.cache
+D:\ASP\weak4\20200317test1\20200317test1\obj\Debug\net6.0\20200317test1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP\weak4\20200317test1\20200317test1\obj\Debug\net6.0\20200317test1.AssemblyInfoInputs.cache
+D:\ASP\weak4\20200317test1\20200317test1\obj\Debug\net6.0\20200317test1.AssemblyInfo.cs
+D:\ASP\weak4\20200317test1\20200317test1\obj\Debug\net6.0\20200317test1.csproj.CoreCompileInputs.cache
+D:\ASP\weak4\20200317test1\20200317test1\obj\Debug\net6.0\20200317test1.dll
+D:\ASP\weak4\20200317test1\20200317test1\obj\Debug\net6.0\refint\20200317test1.dll
+D:\ASP\weak4\20200317test1\20200317test1\obj\Debug\net6.0\20200317test1.pdb
+D:\ASP\weak4\20200317test1\20200317test1\obj\Debug\net6.0\20200317test1.genruntimeconfig.cache
+D:\ASP\weak4\20200317test1\20200317test1\obj\Debug\net6.0\ref\20200317test1.dll

@@ -1,0 +1,11 @@
+D:\ASP\weak5\20230322Two-color ball\bin\Debug\WindowsFormsApp4.exe.config
+D:\ASP\weak5\20230322Two-color ball\bin\Debug\WindowsFormsApp4.exe
+D:\ASP\weak5\20230322Two-color ball\bin\Debug\WindowsFormsApp4.pdb
+D:\ASP\weak5\20230322Two-color ball\obj\Debug\20230322Two-color ball.csproj.AssemblyReference.cache
+D:\ASP\weak5\20230322Two-color ball\obj\Debug\20230322Two-color ball.csproj.SuggestedBindingRedirects.cache
+D:\ASP\weak5\20230322Two-color ball\obj\Debug\WindowsFormsApp4.Form1.resources
+D:\ASP\weak5\20230322Two-color ball\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+D:\ASP\weak5\20230322Two-color ball\obj\Debug\20230322Two-color ball.csproj.GenerateResource.cache
+D:\ASP\weak5\20230322Two-color ball\obj\Debug\20230322Two-color ball.csproj.CoreCompileInputs.cache
+D:\ASP\weak5\20230322Two-color ball\obj\Debug\WindowsFormsApp4.exe
+D:\ASP\weak5\20230322Two-color ball\obj\Debug\WindowsFormsApp4.pdb

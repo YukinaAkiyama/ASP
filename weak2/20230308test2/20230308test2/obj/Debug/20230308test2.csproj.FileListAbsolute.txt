@@ -1,0 +1,11 @@
+C:\Users\秋山雪奈\source\repos\20230308test2\20230308test2\bin\Debug\20230308test2.exe.config
+C:\Users\秋山雪奈\source\repos\20230308test2\20230308test2\bin\Debug\20230308test2.exe
+C:\Users\秋山雪奈\source\repos\20230308test2\20230308test2\bin\Debug\20230308test2.pdb
+C:\Users\秋山雪奈\source\repos\20230308test2\20230308test2\obj\Debug\20230308test2.csproj.AssemblyReference.cache
+C:\Users\秋山雪奈\source\repos\20230308test2\20230308test2\obj\Debug\20230308test2.csproj.SuggestedBindingRedirects.cache
+C:\Users\秋山雪奈\source\repos\20230308test2\20230308test2\obj\Debug\_20230308test2.Form1.resources
+C:\Users\秋山雪奈\source\repos\20230308test2\20230308test2\obj\Debug\_20230308test2.Properties.Resources.resources
+C:\Users\秋山雪奈\source\repos\20230308test2\20230308test2\obj\Debug\20230308test2.csproj.GenerateResource.cache
+C:\Users\秋山雪奈\source\repos\20230308test2\20230308test2\obj\Debug\20230308test2.csproj.CoreCompileInputs.cache
+C:\Users\秋山雪奈\source\repos\20230308test2\20230308test2\obj\Debug\20230308test2.exe
+C:\Users\秋山雪奈\source\repos\20230308test2\20230308test2\obj\Debug\20230308test2.pdb
