@@ -1,0 +1,13 @@
+D:\ASP\weak8\20230425test2\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+D:\ASP\weak8\20230425test2\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+D:\ASP\weak8\20230425test2\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+D:\ASP\weak8\20230425test2\WindowsFormsApp8\obj\Debug\20230425test1.csproj.AssemblyReference.cache
+D:\ASP\weak8\20230425test2\WindowsFormsApp8\obj\Debug\20230425test1.csproj.SuggestedBindingRedirects.cache
+D:\ASP\weak8\20230425test2\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+D:\ASP\weak8\20230425test2\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Pic.resources
+D:\ASP\weak8\20230425test2\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+D:\ASP\weak8\20230425test2\WindowsFormsApp8\obj\Debug\20230425test1.csproj.GenerateResource.cache
+D:\ASP\weak8\20230425test2\WindowsFormsApp8\obj\Debug\20230425test1.csproj.CoreCompileInputs.cache
+D:\ASP\weak8\20230425test2\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+D:\ASP\weak8\20230425test2\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+D:\ASP\weak8\20230425test2\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form2.resources

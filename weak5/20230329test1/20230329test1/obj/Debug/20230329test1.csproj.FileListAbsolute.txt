@@ -1,0 +1,11 @@
+D:\ASP\weak6\20230329test1\20230329test1\bin\Debug\20230329test1.exe.config
+D:\ASP\weak6\20230329test1\20230329test1\bin\Debug\20230329test1.exe
+D:\ASP\weak6\20230329test1\20230329test1\bin\Debug\20230329test1.pdb
+D:\ASP\weak6\20230329test1\20230329test1\obj\Debug\20230329test1.csproj.AssemblyReference.cache
+D:\ASP\weak6\20230329test1\20230329test1\obj\Debug\20230329test1.csproj.SuggestedBindingRedirects.cache
+D:\ASP\weak6\20230329test1\20230329test1\obj\Debug\_20230329test1.Form1.resources
+D:\ASP\weak6\20230329test1\20230329test1\obj\Debug\_20230329test1.Properties.Resources.resources
+D:\ASP\weak6\20230329test1\20230329test1\obj\Debug\20230329test1.csproj.GenerateResource.cache
+D:\ASP\weak6\20230329test1\20230329test1\obj\Debug\20230329test1.csproj.CoreCompileInputs.cache
+D:\ASP\weak6\20230329test1\20230329test1\obj\Debug\20230329test1.exe
+D:\ASP\weak6\20230329test1\20230329test1\obj\Debug\20230329test1.pdb

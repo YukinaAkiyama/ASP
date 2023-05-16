@@ -1,0 +1,2 @@
+D:\ASP\weak11\WebApplication7\WebApplication7\obj\Debug\WebApplication7.csproj.AssemblyReference.cache
+D:\ASP\weak11\WebApplication7\WebApplication7\obj\Debug\WebApplication7.csproj.GenerateResource.cache
